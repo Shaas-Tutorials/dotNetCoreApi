@@ -1,0 +1,11 @@
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/dotnetcoreApi.deps.json
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/dotnetcoreApi.runtimeconfig.json
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/dotnetcoreApi.runtimeconfig.dev.json
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/dotnetcoreApi.dll
+/hindawy/dotnetcoreApi/bin/Debug/netcoreapp2.0/dotnetcoreApi.pdb
+/hindawy/dotnetcoreApi/obj/Debug/netcoreapp2.0/dotnetcoreApi.csproj.CoreCompileInputs.cache
+/hindawy/dotnetcoreApi/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/hindawy/dotnetcoreApi/obj/Debug/netcoreapp2.0/dotnetcoreApi.AssemblyInfo.cs
+/hindawy/dotnetcoreApi/obj/Debug/netcoreapp2.0/dotnetcoreApi.dll
+/hindawy/dotnetcoreApi/obj/Debug/netcoreapp2.0/dotnetcoreApi.pdb
